@@ -1,0 +1,21 @@
+unstructured
+tiktoken
+pinecone-client
+pypdf
+openai
+langchain
+langchain_community
+langchain_openai
+pandas
+numpy
+python-dotenv
+streamlit
+streamlit_chat
+# ChatOpenAI
+utils
+sentence_transformers
+# pinecone
+langchain_pinecone
+ipykernel
+dotenv
+pinecone
